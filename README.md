@@ -64,8 +64,8 @@ The **Credit Card Customer & Transaction Analysis Dashboard** helps financial an
 ## Dashboard Previews
 
 ### 🔵 Credit Card Customer Report 
-"C:\Users\AMIT RAJPOOT\Downloads\Credit Card Report Customer.pdf"
+
 
 ### 🔵 Credit Card Transaction Report
-"C:\Users\AMIT RAJPOOT\Downloads\Credit Card Report transition.pdf"
+"C:\Users\AMIT RAJPOOT\Downloads\Credit Card Report transition_page-0001.jpg"
 

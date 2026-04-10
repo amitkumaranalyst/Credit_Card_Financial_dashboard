@@ -68,5 +68,6 @@ The **Credit Card Customer & Transaction Analysis Dashboard** helps financial an
 
 
 ### 🔵 Credit Card Transaction Report
-![Transaction Report](./transaction_report.png)
+![Credit Card Report transition_page-0001](https://github.com/user-attachments/assets/a481a00d-d7a5-426b-8f54-12e991a8f4f4)
+
 

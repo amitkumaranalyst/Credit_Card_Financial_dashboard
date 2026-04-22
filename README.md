@@ -30,12 +30,12 @@ The **Credit Card Customer & Transaction Analysis Dashboard** helps financial an
 ## Dashboard Features
 
 ### 🔹 Key Metrics (KPIs)
-- **Revenue**: 57M  
-- **Transaction Amount**: 46M  
-- **Income Generated**: 588M  
-- **Interest Earned**: 8M  
+- **Revenue**: 55M  
+- **Transaction Amount**: 44.5M  
+- **Income Generated**: 575.9M  
+- **Interest Earned**: 7.8M  
 - **Customer Satisfaction Score (CSS)**: 3.19  
-- **Customer Count**: 667K+
+- **Customer Count**: 665K+
 
 ### Filters
 - Card Category
